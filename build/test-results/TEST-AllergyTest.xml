@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AllergyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-21T18:52:47" hostname="epicodus-115.local" time="0.003">
+  <properties/>
+  <testcase name="calculateScore_returnsRockPaper" classname="AllergyTest" time="0.002"/>
+  <testcase name="calculateScore_returnsAll" classname="AllergyTest" time="0.001"/>
+  <testcase name="calculateScore_returnsPaperRock" classname="AllergyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
