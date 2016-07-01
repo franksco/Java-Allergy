@@ -1,10 +1,10 @@
-_{Allergy Number Game}_
+####_{Allergy Number Game}_
 
-#### _{Enter a positive number and numbers between 1 and the specified number, and a list of allergies will appear depending on the criteria}
+##_{Enter a positive number and numbers between 1 and the specified number, and a list of allergies will appear depending on the criteria}
 
-###_{4/21/2016}_
+##_{4/21/2016}_
 
-#### By _**{Cory Franks}**_
+### By _**{Cory Franks}**_
 
 ## Description
 
