@@ -1,14 +1,14 @@
-####_{Allergy Number Game}_
+##{Allergy Number Game}
 
-##_{Enter a positive number and numbers between 1 and the specified number, and a list of allergies will appear depending on the criteria}
+####{Enter a positive number and numbers between 1 and the specified number, and a list of allergies will appear depending on the criteria}
 
-##_{4/21/2016}_
+###{4/21/2016}
 
-### By _**{Cory Franks}**_
+### By Cory Franks
 
 ## Description
 
-_{Enter a positive number and based on what the number is like say 35 you would get a list of allergies back saying you are alergic to chocolate, peanuts and eggs. What happens first is it looks through our values and check for the allergy with the highest score puts that in and then rechecks for the next highest score and so. }_
+###{Enter a positive number and based on what the number is like say 35 you would get a list of allergies back saying you are alergic to chocolate, peanuts and eggs. What happens first is it looks through our values and check for the allergy with the highest score puts that in and then rechecks for the next highest score and so. }
 
 ## Setup/Installation Requirements
 
