@@ -8,7 +8,7 @@
 
 ## Description
 
-###Enter a positive number and based on what the number is like say 35 you would get a list of allergies back saying you are alergic to chocolate, peanuts and eggs. What happens first is it looks through our values and check for the allergy with the highest score puts that in and then rechecks for the next highest score and so.
+Enter a positive number and based on what the number is like say 35 you would get a list of allergies back saying you are alergic to chocolate, peanuts and eggs. What happens first is it looks through our values and check for the allergy with the highest score puts that in and then rechecks for the next highest score and so.
 
 ## Setup/Installation Requirements
 
