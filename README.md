@@ -1,6 +1,6 @@
 ##Allergy Number Game
 
-####Enter a positive number and numbers between 1 and the specified number, and a list of allergies will appear depending on the criteria
+Enter a positive number and numbers between 1 and the specified number, and a list of allergies will appear depending on the criteria
 
 
 
